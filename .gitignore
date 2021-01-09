@@ -2,3 +2,5 @@
 out/
 leetcode_puzzles.iml
 test.txt
+src/org/dmitriy/leetcode/Main.java
+src/org/dmitriy/leetcode/inputReader
